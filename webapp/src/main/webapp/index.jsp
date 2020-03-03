@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<center>
+<h1> Hello, Welcome to WebMart !!! </h1>
+<h2> &nbsp; - Sagar Srinivas </h2>
+  <hr>
+</center>
