@@ -1,6 +1,7 @@
 <style>
 body{
-  margin: 250px;;
+  margin: 50px;
+  background-color: lightblue;
 }
 h1{
   margin-top: 50%;
