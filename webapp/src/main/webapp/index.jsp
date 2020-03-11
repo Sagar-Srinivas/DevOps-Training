@@ -1,3 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<%@ page import="java.util.*"%>
+
 <style>
   body {
     margin: 50px;
@@ -16,6 +19,7 @@
     <h1> welcome to WebMarts !!! </h1>
     <h2>&nbsp; <code> - Enjoy Webing... </code> </h2>
     <hr style="width:50%" />
+    <%= (new java.util.Date()).toLocaleString()%>
   </div>
   <!-- <form action="index.jsp" method="POST">
   <input type ="text" id="name" name="name" placeholder ="Enter your name"/>
