@@ -1,16 +1,22 @@
 <style>
-body{
-  margin: 50px;
-  background-color: lightblue;
-}
-h1{
-  margin-top: 50%;
-}
+  body {
+    margin: 50px;
+    background-color: rgb(79, 129, 238);
+  }
+
+  h1 {
+    margin-top: 25%;
+  }
+  div{
+    border: 1px solid rgba(79, 129, 238, 0.5);
+  }
 </style>
 <center>
-<h1> Hello ,wellcome to WebMarts !!! </h1>
-  <h2>&nbsp;&nbsp; <code> - Sagar Srinivas </code> </h2>
-  <hr style="width:50%"/>
+  <div>
+    <h1> welcome to WebMarts !!! </h1>
+    <h2>&nbsp; <code> - Enjoy Webing... </code> </h2>
+    <hr style="width:50%" />
+  </div>
   <!-- <form action="index.jsp" method="POST">
   <input type ="text" id="name" name="name" placeholder ="Enter your name"/>
   <input type="submit" value="OK"/>
