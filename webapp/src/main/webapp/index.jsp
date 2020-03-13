@@ -3,12 +3,11 @@
 
 <style>
   body {
-    margin: 50px;
     background-color: rgb(79, 129, 238);
   }
 
   h1 {
-    margin-top: 25%;
+    margin-top: 15%;
   }
   div{
     border: 1px solid rgba(79, 129, 238, 0.5);
